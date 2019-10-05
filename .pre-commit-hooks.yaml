@@ -1,0 +1,6 @@
+-   id: coverage-badge
+    name: coverage-badge
+    description: Generates a coverage badge
+    entry: coverage-badge
+    language: python
+    types: [python]
